@@ -3,7 +3,9 @@
     "BOT_TOKEN_LU",
     "8536291859:AAFadmZxxeeFK076ajNXTxWM_pfoXkTtmyo"
   ],
-  "resellers": [],
+  "resellers": [
+    8017894504
+  ],
   "owners": [
     8077119549
   ],
